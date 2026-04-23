@@ -177,8 +177,8 @@ This project is open source under the MIT License.
 
 ## 👤 Connect With Me
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Project Link: [github.com/YOUR_USERNAME/Hospital-Management-System](https://github.com/YOUR_USERNAME/Hospital-Management-System)
+- GitHub: (https://github.com/jugnu141)
+- Project Link: (https://github.com/jugnu141/Hospital-Management-System)
 
 ---
 
